@@ -12,6 +12,17 @@
 		54F64CCA1FB44C62006F1064 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54F64CC81FB44C62006F1064 /* Main.storyboard */; };
 		54F64CCC1FB44C62006F1064 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54F64CCB1FB44C62006F1064 /* Assets.xcassets */; };
 		54F64CCF1FB44C62006F1064 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54F64CCD1FB44C62006F1064 /* LaunchScreen.storyboard */; };
+		54F64CD71FB483F4006F1064 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 54F64CD61FB483F4006F1064 /* Contents.json */; };
+		54F64CD91FB484FE006F1064 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54F64CD81FB484FE006F1064 /* Assets.xcassets */; };
+		54F64CE21FB4850B006F1064 /* Tree 7.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 54F64CDA1FB4850B006F1064 /* Tree 7.pdf */; };
+		54F64CE31FB4850B006F1064 /* Tree 3.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 54F64CDB1FB4850B006F1064 /* Tree 3.pdf */; };
+		54F64CE41FB4850B006F1064 /* Tree 5.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 54F64CDC1FB4850B006F1064 /* Tree 5.pdf */; };
+		54F64CE51FB4850B006F1064 /* Tree 6.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 54F64CDD1FB4850B006F1064 /* Tree 6.pdf */; };
+		54F64CE61FB4850B006F1064 /* Tree 1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 54F64CDE1FB4850B006F1064 /* Tree 1.pdf */; };
+		54F64CE71FB4850B006F1064 /* Tree 0.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 54F64CDF1FB4850B006F1064 /* Tree 0.pdf */; };
+		54F64CE81FB4850B006F1064 /* Tree 4.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 54F64CE01FB4850B006F1064 /* Tree 4.pdf */; };
+		54F64CE91FB4850B006F1064 /* Tree 2.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 54F64CE11FB4850B006F1064 /* Tree 2.pdf */; };
+		54F64CEB1FB49B2D006F1064 /* game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54F64CEA1FB49B2D006F1064 /* game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +33,17 @@
 		54F64CCB1FB44C62006F1064 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		54F64CCE1FB44C62006F1064 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		54F64CD01FB44C62006F1064 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54F64CD61FB483F4006F1064 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Contents.json; path = Assets.xcassets/AppIcon.appiconset/Contents.json; sourceTree = "<group>"; };
+		54F64CD81FB484FE006F1064 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		54F64CDA1FB4850B006F1064 /* Tree 7.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Tree 7.pdf"; path = "Assets.xcassets/Tree 7.pdf"; sourceTree = "<group>"; };
+		54F64CDB1FB4850B006F1064 /* Tree 3.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Tree 3.pdf"; path = "Assets.xcassets/Tree 3.pdf"; sourceTree = "<group>"; };
+		54F64CDC1FB4850B006F1064 /* Tree 5.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Tree 5.pdf"; path = "Assets.xcassets/Tree 5.pdf"; sourceTree = "<group>"; };
+		54F64CDD1FB4850B006F1064 /* Tree 6.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Tree 6.pdf"; path = "Assets.xcassets/Tree 6.pdf"; sourceTree = "<group>"; };
+		54F64CDE1FB4850B006F1064 /* Tree 1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Tree 1.pdf"; path = "Assets.xcassets/Tree 1.pdf"; sourceTree = "<group>"; };
+		54F64CDF1FB4850B006F1064 /* Tree 0.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Tree 0.pdf"; path = "Assets.xcassets/Tree 0.pdf"; sourceTree = "<group>"; };
+		54F64CE01FB4850B006F1064 /* Tree 4.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Tree 4.pdf"; path = "Assets.xcassets/Tree 4.pdf"; sourceTree = "<group>"; };
+		54F64CE11FB4850B006F1064 /* Tree 2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Tree 2.pdf"; path = "Assets.xcassets/Tree 2.pdf"; sourceTree = "<group>"; };
+		54F64CEA1FB49B2D006F1064 /* game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +79,17 @@
 				54F64CC41FB44C62006F1064 /* AppDelegate.swift */,
 				54F64CC61FB44C62006F1064 /* ViewController.swift */,
 				54F64CC81FB44C62006F1064 /* Main.storyboard */,
+				54F64CEA1FB49B2D006F1064 /* game.swift */,
+				54F64CDE1FB4850B006F1064 /* Tree 1.pdf */,
+				54F64CE11FB4850B006F1064 /* Tree 2.pdf */,
+				54F64CDB1FB4850B006F1064 /* Tree 3.pdf */,
+				54F64CE01FB4850B006F1064 /* Tree 4.pdf */,
+				54F64CDF1FB4850B006F1064 /* Tree 0.pdf */,
+				54F64CDC1FB4850B006F1064 /* Tree 5.pdf */,
+				54F64CDD1FB4850B006F1064 /* Tree 6.pdf */,
+				54F64CDA1FB4850B006F1064 /* Tree 7.pdf */,
+				54F64CD81FB484FE006F1064 /* Assets.xcassets */,
+				54F64CD61FB483F4006F1064 /* Contents.json */,
 				54F64CCB1FB44C62006F1064 /* Assets.xcassets */,
 				54F64CCD1FB44C62006F1064 /* LaunchScreen.storyboard */,
 				54F64CD01FB44C62006F1064 /* Info.plist */,
@@ -124,8 +157,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				54F64CCF1FB44C62006F1064 /* LaunchScreen.storyboard in Resources */,
+				54F64CE31FB4850B006F1064 /* Tree 3.pdf in Resources */,
+				54F64CE81FB4850B006F1064 /* Tree 4.pdf in Resources */,
 				54F64CCC1FB44C62006F1064 /* Assets.xcassets in Resources */,
 				54F64CCA1FB44C62006F1064 /* Main.storyboard in Resources */,
+				54F64CE71FB4850B006F1064 /* Tree 0.pdf in Resources */,
+				54F64CD71FB483F4006F1064 /* Contents.json in Resources */,
+				54F64CE61FB4850B006F1064 /* Tree 1.pdf in Resources */,
+				54F64CD91FB484FE006F1064 /* Assets.xcassets in Resources */,
+				54F64CE51FB4850B006F1064 /* Tree 6.pdf in Resources */,
+				54F64CE91FB4850B006F1064 /* Tree 2.pdf in Resources */,
+				54F64CE21FB4850B006F1064 /* Tree 7.pdf in Resources */,
+				54F64CE41FB4850B006F1064 /* Tree 5.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,6 +179,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54F64CEB1FB49B2D006F1064 /* game.swift in Sources */,
 				54F64CC71FB44C62006F1064 /* ViewController.swift in Sources */,
 				54F64CC51FB44C62006F1064 /* AppDelegate.swift in Sources */,
 			);
@@ -280,7 +324,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "ET.Apple-pie";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -294,7 +338,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "ET.Apple-pie";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
